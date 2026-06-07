@@ -3,16 +3,16 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+<!-- Pruthvi .S-->
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+<!-- pruthvi-3417-->
 
 **Team Name:**  
-<!-- Write your team name -->
+<!-- INNOVATEX-->
 
 **College/University:**  
-<!-- Write your college/university name -->
+<!--Sapthagiri NPS University -->
 
 ---
 
