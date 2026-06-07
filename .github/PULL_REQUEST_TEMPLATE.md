@@ -28,7 +28,7 @@
 <!-- Example: HTML, CSS, JavaScript, Python (Flask), MySQL, Machine Learning, GitHub.. -->
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+<!-- https://github.com/pruthvi-3417/traumacare-connect-->
 
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
