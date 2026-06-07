@@ -3,23 +3,23 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+<!-- Pruthvi .S-->
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+<!--pruthvi-3417 -->
 
 **Team Name:**  
-<!-- Write your team name -->
+<!-- INNIVATEX -->
 
 **College/University:**  
-<!-- Write your college/university name -->
+<!-- sapthagiri nps university-->
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+<!-- traumacare-connect-->
 
 **Project Description:**  
 <!-- Explain what your project does, what problem it solves, and why it matters -->
