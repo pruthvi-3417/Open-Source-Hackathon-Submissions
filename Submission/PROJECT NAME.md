@@ -72,4 +72,4 @@ Please complete these before submitting:
 - [ ] I have generated my ID card from https://oshack.xyz
 - [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
----
+---.
